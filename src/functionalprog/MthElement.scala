@@ -1,3 +1,5 @@
+package functionalprog
+
 /**
   * Created by abdaniel on 9/4/16.
   */

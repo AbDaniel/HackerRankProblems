@@ -1,3 +1,5 @@
+package functionalprog;
+
 import java.util.Scanner;
 
 /**
