@@ -73,3 +73,6 @@ project/boot/
 .history
 .cache
 
+.idea/
+HackerRankProblems.iml
+src/
