@@ -2,8 +2,7 @@ package algorithm
 
 import java.util.Scanner
 
-import scala.collection.immutable.HashSet.HashSet1
-import scala.collection.immutable.{HashSet, IndexedSeq}
+import scala.collection.immutable.IndexedSeq
 
 /**
   * Created by abdaniel on 9/21/16.
